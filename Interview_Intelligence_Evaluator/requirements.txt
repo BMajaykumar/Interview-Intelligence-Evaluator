@@ -4,4 +4,5 @@ pydantic
 spacy
 textblob
 numpy
-
+litellm
+tenacity
