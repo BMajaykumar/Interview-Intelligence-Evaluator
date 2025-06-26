@@ -1,0 +1,1 @@
+I worked on a Python project using machine learning. Uh, it was, you know, pretty successful, and I used NLP to improve the model.
