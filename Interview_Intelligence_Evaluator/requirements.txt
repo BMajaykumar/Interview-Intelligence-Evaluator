@@ -4,3 +4,5 @@ pydantic==2.9.2
 spacy==3.7.6
 textblob==0.18.0
 numpy==1.26.4
+litellm==1.34.8  # Latest version as of June 2025, adjust if needed
+tenacity==8.2.3  # For retry logic with rate limits
